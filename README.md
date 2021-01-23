@@ -1,0 +1,2 @@
+# SockttCPU
+Making a cpu
